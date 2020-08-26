@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List Filter</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="salary">Salary</string>
+</resources>
